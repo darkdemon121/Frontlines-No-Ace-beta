@@ -1,0 +1,34 @@
+[
+    "CSAT (Woodland)",
+    east,
+    [
+        "O_Soldier_F",
+        "O_Soldier_LAT_F",
+        "O_Soldier_AR_F",
+        "O_Soldier_GL_F",
+        "O_medic_F",
+        "O_soldier_AA_F",
+        "O_engineer_F"
+    ],
+    [
+        "O_MRAP_02_hmg_F",
+        "O_MRAP_02_gmg_F",
+        "O_APC_Wheeled_02_rcws_v2_F",
+        "O_APC_Tracked_02_cannon_F",
+        "O_APC_Tracked_02_AA_F",
+        "O_MBT_02_cannon_F"
+    ],
+    [
+        "O_Heli_Light_02_dynamicLoadout_F",
+        "O_Heli_Attack_02_black_F",
+        "O_T_VTOL_02_infantry_dynamicLoadout_F",
+        "O_Plane_CAS_02_dynamicLoadout_F",
+        "O_Plane_Fighter_02_F"
+    ],
+    [
+        "O_HMG_01_F",
+        "O_GMG_01_F",
+        "O_static_AT_F",
+        "O_static_AA_F"
+    ]
+]

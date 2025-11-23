@@ -1,0 +1,34 @@
+[
+    "NATO (Pacific)",
+    west,
+    [
+        "B_T_Soldier_F",
+        "B_T_Soldier_AR_F",
+        "B_T_Soldier_LAT_F",
+        "B_T_Soldier_GL_F",
+        "B_T_Medic_F",
+        "B_T_Soldier_AA_F",
+        "B_T_Engineer_F"
+    ],
+    [
+        "B_T_MRAP_01_hmg_F",
+        "B_T_MRAP_01_gmg_F",
+        "B_T_APC_Wheeled_01_cannon_F",
+        "B_T_APC_Tracked_01_rcws_F",
+        "B_T_APC_Tracked_01_AA_F",
+        "B_T_MBT_01_TUSK_F"
+    ],
+    [
+        "B_Heli_Light_01_dynamicLoadout_F",
+        "B_Heli_Attack_01_dynamicLoadout_F",
+        "B_Heli_Transport_01_F",
+        "B_Plane_CAS_01_dynamicLoadout_F",
+        "B_Plane_Fighter_01_Stealth_F"
+    ],
+    [
+        "B_HMG_01_F",
+        "B_GMG_01_F",
+        "B_static_AT_F",
+        "B_static_AA_F"
+    ]
+]

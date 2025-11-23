@@ -1,0 +1,29 @@
+[
+    "RHS CDF (Woodland)",
+    resistance,
+    [
+        "rhs_msv_rifleman",
+        "rhs_msv_grenadier",
+        "rhs_msv_arifleman",
+        "rhs_msv_LAT",
+        "rhs_msv_medic",
+        "rhs_msv_engineer"
+    ],
+    [
+        "rhs_btr80_msv",
+        "rhs_btr70_msv",
+        "rhs_bmp2d_vdv",
+        "rhs_prp3_vdv",
+        "rhs_t72bc_tv"
+    ],
+    [
+        "RHS_Mi8AMTSh_FAB_vv",
+        "RHS_Mi24Vt_vvsc",
+        "RHS_Su25SM_vvsc"
+    ],
+    [
+        "rhs_KORD_high_MSV",
+        "rhs_Igla_AA_pod_msv",
+        "rhs_Kornet_9M133_2_msv"
+    ]
+]

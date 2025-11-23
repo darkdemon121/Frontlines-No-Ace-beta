@@ -1,2 +1,9 @@
 # Frontlines-No-Ace-beta
-Liberation Based Game mode for Arma 3
+
+Liberation-style dynamic mission template for Arma 3. The `core.liberation` folder contains scripts and configs that auto-generate sectors on any map, populate them with configurable defenders, deliver a 70+ mission catalog, and provide a FOB-gated logistics build menu with resource/fuel/manpower economy and civilian workforce. Use the `mod_template` subfolder to mirror Liberation RX conventions and the `core.liberation/factions` directory (organized by `blufor`, `opfor`, and `independent`) to point mission parameters at ready-made presets (vanilla NATO/CSAT/AAF/Syndikat plus CTRG, RHS US/VDV/MSV, BAF variants, and CUP/3CB examples). See `TESTING.md` for manual validation steps inside Arma 3.
+
+Each player also maintains private cash for town markets while the faction still shares the global resources/fuel pool for FOB logistics. Markets spawn shopkeepers and map markers in civilian settlements; players can browse weapon/gear/vehicle tabs, spend their own balance, and collect purchases spawned outside the stall. Mission completions and sector captures add to a per-player hourly income bonus so long-running campaigns reward active squads.
+
+Server-hosted games automatically save progress to the profile every 15 minutes and on demand via the persistence helpers so captured sectors, FOBs, and resources survive restarts. A live battle overlay (configurable refresh interval) paints hotspots on the map and a buildable Tactical Map board at FOBs shows friendly fronts plus spotted enemies for on-base planning.
+
+AI groups scale their strength with the theater’s alert level, flank and suppress under fire, and fall back to nearby buildings when mauled. Both factions can commit occasional atrocities that are flagged on the map; squads must detain friendly offenders at a Friendly Prison buildable and spend resources to pardon them, while enemy war criminals and POWs are held in a separate Prison structure for swaps. Players who violate ROE are likewise marked, hunted by nearby friendlies, and must be escorted to a Friendly Prison before being released for a steep cost.

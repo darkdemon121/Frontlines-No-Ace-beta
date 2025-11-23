@@ -1,0 +1,23 @@
+[
+    "Syndikat",
+    resistance,
+    [
+        "I_C_Soldier_Bandit_2_F",
+        "I_C_Soldier_Bandit_4_F",
+        "I_C_Soldier_Bandit_5_F",
+        "I_C_Soldier_Para_4_F",
+        "I_C_Soldier_Bandit_7_F"
+    ],
+    [
+        "I_C_Offroad_02_LMG_F",
+        "I_C_Offroad_02_AT_F",
+        "I_G_Offroad_01_armed_F"
+    ],
+    [
+        "I_C_Plane_Civil_01_F"
+    ],
+    [
+        "I_G_HMG_02_high_F",
+        "I_G_Mortar_01_F"
+    ]
+]

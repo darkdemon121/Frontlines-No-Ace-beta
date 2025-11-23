@@ -1,0 +1,31 @@
+[
+    "RHS US Army (OCP)",
+    west,
+    [
+        "rhsusf_usarmy_ocp_rifleman",
+        "rhsusf_usarmy_ocp_autorifleman",
+        "rhsusf_usarmy_ocp_grenadier",
+        "rhsusf_usarmy_ocp_riflemanat",
+        "rhsusf_usarmy_ocp_medic",
+        "rhsusf_usarmy_ocp_engineer"
+    ],
+    [
+        "rhsusf_m1240a1_m2_usarmy_wd",
+        "rhsusf_M1117_W",
+        "rhsusf_stryker_m1126_m2_d",
+        "rhsusf_m2a3_BUSKI_wd",
+        "rhsusf_m1a2sep1tuskid_usarmy"
+    ],
+    [
+        "RHS_UH60M",
+        "RHS_CH_47F",
+        "RHS_AH64D",
+        "RHS_A10"
+    ],
+    [
+        "RHS_M2StaticMG_D",
+        "RHS_MK19_TriPod_D",
+        "RHS_Stinger_AA_pod_D",
+        "RHS_TOW_TriPod_D"
+    ]
+]
