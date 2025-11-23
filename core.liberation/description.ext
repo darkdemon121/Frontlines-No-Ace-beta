@@ -1,0 +1,61 @@
+respawn = 3;
+respawnDelay = 5;
+respawnDialog = 0;
+respawnOnStart = 1;
+respawnTemplates[] = {"MenuPosition","MenuInventory","Spectator"};
+saving = 1; // allow persistent saves on the server profile
+persistent = 1; // keep mission state when no players are connected
+
+class Header {
+    gameType = Coop;
+    minPlayers = 1;
+    maxPlayers = 30;
+};
+
+author = "Invasion Liberation Template";
+onLoadName = "Invasion Liberation";
+onLoadMission = "Dynamic liberation-style scenario for any terrain.";
+loadScreen = "\A3\Ui_f\data\GUI\Rsc\RscDisplayLoading\logo_ca.paa";
+joinUnassigned = 1;
+
+#include "params.hpp"
+#include "config\MissionBoard.hpp"
+#include "config\IntelMap.hpp"
+#include "config\BuildMenu.hpp"
+#include "config\Shop.hpp"
+#include "config\ShopCatalog.hpp"
+#include "config\Buildables.hpp"
+
+class CfgFunctions {
+    #include "config\CfgFunctions.hpp"
+};
+
+class CfgDebriefing {
+    class victory {
+        title = "Victory";
+        subtitle = "You secured the theater.";
+        description = "All sectors and strategic sites are under friendly control.";
+    };
+    class defeat {
+        title = "Defeat";
+        subtitle = "The AO was lost.";
+        description = "Enemy forces retook critical sectors and overwhelmed your FOB network.";
+    };
+};
+
+class CfgNotifications {
+    class sectorCaptured {
+        title = "SECTOR CAPTURED";
+        iconPicture = "A3\ui_f\data\map\markers\nato\b_inf.paa";
+        description = "%1 is now under friendly control.";
+        duration = 6;
+    };
+    class sectorLost {
+        title = "SECTOR LOST";
+        iconPicture = "A3\ui_f\data\map\markers\nato\o_inf.paa";
+        description = "%1 was overrun by hostile forces.";
+        duration = 6;
+    };
+};
+
+#include "config\PlayableRoles.hpp"
