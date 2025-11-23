@@ -1,0 +1,26 @@
+[
+    "RHS ChDKZ (Guerrilla)",
+    resistance,
+    [
+        "rhs_g_mnvd_b",
+        "rhs_g_Soldier_F",
+        "rhs_g_Soldier_GL_F",
+        "rhs_g_Soldier_LAT_F",
+        "rhs_g_Soldier_AR_F",
+        "rhs_g_medic"
+    ],
+    [
+        "rhs_uaz_dshkm_chdkz",
+        "rhs_uaz_ags_chdkz",
+        "rhs_btr60_chdkz",
+        "rhs_bmp1d_chdkz"
+    ],
+    [
+        "RHS_Mi8amt_chdkz"
+    ],
+    [
+        "rhs_DSHKM_ins",
+        "rhs_Metis_9k115_2_ins",
+        "rhs_Igla_AA_pod_ins"
+    ]
+]

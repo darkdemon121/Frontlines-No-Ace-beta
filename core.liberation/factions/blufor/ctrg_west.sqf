@@ -1,0 +1,29 @@
+[
+    "CTRG (Spec Ops)",
+    west,
+    [
+        "B_CTRG_Soldier_tna_F",
+        "B_CTRG_Soldier_Medic_tna_F",
+        "B_CTRG_Soldier_LAT_tna_F",
+        "B_CTRG_Soldier_AR_tna_F",
+        "B_CTRG_Soldier_GL_tna_F",
+        "B_CTRG_Soldier_Exp_tna_F"
+    ],
+    [
+        "B_T_LSV_01_armed_F",
+        "B_T_MRAP_01_hmg_F",
+        "B_T_APC_Wheeled_01_cannon_F",
+        "B_T_APC_Tracked_01_rcws_F"
+    ],
+    [
+        "B_Heli_Light_01_dynamicLoadout_F",
+        "B_Heli_Attack_01_dynamicLoadout_F",
+        "B_T_VTOL_01_armed_F"
+    ],
+    [
+        "B_HMG_01_F",
+        "B_GMG_01_F",
+        "B_static_AT_F",
+        "B_static_AA_F"
+    ]
+]

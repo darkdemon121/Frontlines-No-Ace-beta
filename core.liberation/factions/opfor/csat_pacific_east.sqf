@@ -1,0 +1,34 @@
+[
+    "CSAT (Pacific)",
+    east,
+    [
+        "O_T_Soldier_F",
+        "O_T_Soldier_LAT_F",
+        "O_T_Soldier_AR_F",
+        "O_T_Soldier_GL_F",
+        "O_T_Medic_F",
+        "O_T_Soldier_AA_F",
+        "O_T_Engineer_F"
+    ],
+    [
+        "O_T_MRAP_02_hmg_ghex_F",
+        "O_T_MRAP_02_gmg_ghex_F",
+        "O_T_APC_Wheeled_02_rcws_ghex_F",
+        "O_T_APC_Tracked_02_cannon_ghex_F",
+        "O_T_APC_Tracked_02_AA_ghex_F",
+        "O_T_MBT_02_cannon_ghex_F"
+    ],
+    [
+        "O_T_VTOL_02_vehicle_dynamicLoadout_F",
+        "O_Heli_Attack_02_dynamicLoadout_F",
+        "O_T_VTOL_02_infantry_dynamicLoadout_F",
+        "O_Plane_CAS_02_dynamicLoadout_F",
+        "O_Plane_Fighter_02_Stealth_F"
+    ],
+    [
+        "O_HMG_01_F",
+        "O_GMG_01_F",
+        "O_static_AT_F",
+        "O_static_AA_F"
+    ]
+]

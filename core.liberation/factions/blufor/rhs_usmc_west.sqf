@@ -1,0 +1,31 @@
+[
+    "RHS USMC (Woodland)",
+    west,
+    [
+        "rhsusf_usmc_marpat_wd_rifleman",
+        "rhsusf_usmc_marpat_wd_autorifleman",
+        "rhsusf_usmc_marpat_wd_grenadier",
+        "rhsusf_usmc_marpat_wd_riflemanat",
+        "rhsusf_navy_sarc_medic",
+        "rhsusf_usmc_marpat_wd_engineer"
+    ],
+    [
+        "rhsusf_m1240a1_m2_usmc_wd",
+        "rhsusf_mk23_usmc_wd",
+        "rhsusf_mk23_usmc_wd_m2",
+        "rhsusf_stryker_m1126_m2_d",
+        "rhsusf_m1a1fep_wd"
+    ],
+    [
+        "RHS_UH1Y_UNARMED",
+        "RHS_UH1Y",
+        "RHS_AH1Z",
+        "RHS_UH60M_d"
+    ],
+    [
+        "RHS_M2StaticMG_MCB",
+        "RHS_MK19_TriPod_USMC_WD",
+        "RHS_Stinger_AA_pod_WD",
+        "RHS_TOW_TriPod_USMC_WD"
+    ]
+]

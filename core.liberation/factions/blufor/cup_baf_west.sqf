@@ -1,0 +1,31 @@
+[
+    "CUP BAF (Woodland)",
+    west,
+    [
+        "CUP_B_BAF_Soldier_Rifleman_MTP",
+        "CUP_B_BAF_Soldier_Medic_MTP",
+        "CUP_B_BAF_Soldier_GL_MTP",
+        "CUP_B_BAF_Soldier_AT_MTP",
+        "CUP_B_BAF_Soldier_AA_MTP",
+        "CUP_B_BAF_Soldier_Engineer_MTP"
+    ],
+    [
+        "CUP_B_LR_MG_GB_W",
+        "CUP_B_LR_Special_M2_GB_W",
+        "CUP_B_FV432_Bulldog_GB_W",
+        "CUP_B_MCV80_GB_W",
+        "CUP_B_Challenger2_2CW_BAF"
+    ],
+    [
+        "CUP_B_Merlin_HC3A_GB",
+        "CUP_B_AW159_RN_GB",
+        "CUP_B_AH1_DL_BAF",
+        "CUP_B_GR9_DYN_GB"
+    ],
+    [
+        "CUP_B_L111A1_BAF_GB_W",
+        "CUP_B_L134A1_TriPod_BAF_W",
+        "CUP_B_ZU23_GB_W",
+        "CUP_B_TOW_TriPod_GB_W"
+    ]
+]

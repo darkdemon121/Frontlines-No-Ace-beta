@@ -1,0 +1,32 @@
+[
+    "AAF",
+    resistance,
+    [
+        "I_Soldier_F",
+        "I_Soldier_LAT_F",
+        "I_Soldier_AR_F",
+        "I_Soldier_GL_F",
+        "I_medic_F",
+        "I_Soldier_AA_F",
+        "I_engineer_F"
+    ],
+    [
+        "I_MRAP_03_hmg_F",
+        "I_MRAP_03_gmg_F",
+        "I_APC_Wheeled_03_cannon_F",
+        "I_LT_01_scout_F",
+        "I_LT_01_AT_F",
+        "I_MBT_03_cannon_F"
+    ],
+    [
+        "I_Heli_light_03_dynamicLoadout_F",
+        "I_Heli_Transport_02_F",
+        "I_Plane_Fighter_04_F"
+    ],
+    [
+        "I_HMG_01_F",
+        "I_GMG_01_F",
+        "I_static_AT_F",
+        "I_static_AA_F"
+    ]
+]
