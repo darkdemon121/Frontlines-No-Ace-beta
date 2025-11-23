@@ -1,0 +1,8 @@
+# Normalize text files to LF to reduce merge conflicts
+*.sqf text eol=lf
+*.hpp text eol=lf
+*.ext text eol=lf
+*.md  text eol=lf
+*.txt text eol=lf
+*.paa binary
+*.png binary
