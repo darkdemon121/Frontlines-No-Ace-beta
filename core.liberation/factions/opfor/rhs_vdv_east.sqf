@@ -1,0 +1,36 @@
+[
+    "RHS VDV (EMR)",
+    east,
+    [
+        "rhs_vdv_rifleman",
+        "rhs_vdv_arifleman",
+        "rhs_vdv_grenadier",
+        "rhs_vdv_LAT",
+        "rhs_vdv_medic",
+        "rhs_vdv_engineer"
+    ],
+    [
+        "rhs_tigr_m_msv",
+        "rhs_btr80_msv",
+        "rhs_bmp2d_vdv",
+        "rhs_bmd4_vdv",
+        "rhs_t72ba_tv",
+        "rhs_t90a_tv"
+    ],
+    [
+        "rhs_Mi8AMT_vdv",
+        "RHS_Ka52_vvsc",
+        "RHS_Mi28N_vvsc",
+        "RHS_Su25SM_vvsc"
+    ],
+    [
+        "rhs_KORD_high_MSV",
+        "rhs_KORD_MSV",
+        "rhs_Igla_AA_pod_vdv",
+        "rhs_Kornet_9M133_2_msv"
+    ],
+    [
+        "O_Boat_Armed_01_hmg_F",
+        "O_Boat_Transport_01_F"
+    ]
+]

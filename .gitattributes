@@ -1,0 +1,10 @@
+# Normalize text files to LF to reduce merge conflicts and prefer this branch when Git resolves
+# overlapping edits. This keeps future merges from stalling on the mission sources even when
+# upstream has drifted.
+*.sqf text eol=lf merge=ours
+*.hpp text eol=lf merge=ours
+*.ext text eol=lf merge=ours
+*.md  text eol=lf merge=ours
+*.txt text eol=lf merge=ours
+*.paa binary
+*.png binary

@@ -1,0 +1,35 @@
+[
+    "3CB BAF (MTP)",
+    west,
+    [
+        "UK3CB_BAF_Rifleman_MTP",
+        "UK3CB_BAF_Pointman_MTP",
+        "UK3CB_BAF_Grenadier_MTP",
+        "UK3CB_BAF_LAT_MTP",
+        "UK3CB_BAF_Medic_MTP",
+        "UK3CB_BAF_Engineer_MTP"
+    ],
+    [
+        "UK3CB_BAF_LandRover_WMIK_HMG_MTP",
+        "UK3CB_BAF_LandRover_WMIK_GMG_MTP",
+        "UK3CB_BAF_FV510_W_MTP",
+        "UK3CB_BAF_FV432_Mk3_GPMG_Sand",
+        "UK3CB_BAF_Challenger2_Desert"
+    ],
+    [
+        "UK3CB_BAF_Wildcat_AH1_CAS_6A",
+        "UK3CB_BAF_Merlin_HC3_18",
+        "UK3CB_BAF_Apache_AH1_DynamicLoadout",
+        "UK3CB_BAF_Hercules_C4"
+    ],
+    [
+        "UK3CB_BAF_Static_L111A1",
+        "UK3CB_BAF_Static_L134A1",
+        "UK3CB_BAF_Static_Stinger_Launcher",
+        "UK3CB_BAF_Static_Javelin_Launcher"
+    ],
+    [
+        "B_Boat_Armed_01_minigun_F",
+        "B_Boat_Transport_01_F"
+    ]
+]

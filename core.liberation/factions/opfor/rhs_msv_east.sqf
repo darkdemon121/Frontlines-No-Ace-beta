@@ -1,0 +1,34 @@
+[
+    "RHS MSV (Flora)",
+    east,
+    [
+        "rhs_msv_rifleman",
+        "rhs_msv_arifleman",
+        "rhs_msv_grenadier",
+        "rhs_msv_LAT",
+        "rhs_msv_medic",
+        "rhs_msv_engineer"
+    ],
+    [
+        "rhs_tigr_sts_msv",
+        "rhs_btr80a_msv",
+        "rhs_bmp3mera_msv",
+        "rhs_bmp1_msv",
+        "rhs_t72be_tv"
+    ],
+    [
+        "RHS_Mi8MTV3_heavy_vvsc",
+        "RHS_Mi24V_vdv",
+        "RHS_Su25SM_KH29_vvsc"
+    ],
+    [
+        "rhs_KORD_high_MSV",
+        "rhs_KORD_MSV",
+        "rhs_Igla_AA_pod_msv",
+        "rhs_Metis_9k115_2_msv"
+    ],
+    [
+        "O_Boat_Armed_01_hmg_F",
+        "O_Boat_Transport_01_F"
+    ]
+]
