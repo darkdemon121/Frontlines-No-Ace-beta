@@ -1,2 +1,2 @@
 if (!hasInterface) exitWith {};
-createDialog "RscDisplayFrontlinesIntelMap";
+createDialog "RscDisplayInvasionIntelMap";

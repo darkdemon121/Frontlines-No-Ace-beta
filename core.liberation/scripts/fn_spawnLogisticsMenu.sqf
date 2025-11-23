@@ -52,5 +52,5 @@ if (!hasInterface) exitWith {};
 };
 
 front_fnc_openBuildMenu = {
-    createDialog "RscDisplayFrontlinesBuild";
+    createDialog "RscDisplayInvasionBuild";
 };

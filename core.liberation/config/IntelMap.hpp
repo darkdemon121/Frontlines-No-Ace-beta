@@ -1,4 +1,4 @@
-class RscDisplayFrontlinesIntelMap
+class RscDisplayInvasionIntelMap
 {
     idd = 9900;
     movingEnable = 0;

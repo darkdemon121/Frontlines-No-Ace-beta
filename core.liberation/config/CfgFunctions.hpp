@@ -1,4 +1,4 @@
-class Frontlines {
+class Invasion {
     tag = "front";
     class init {
         file = "scripts";

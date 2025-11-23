@@ -1,1 +1,1 @@
-createDialog "RscDisplayFrontlinesBuild";
+createDialog "RscDisplayInvasionBuild";

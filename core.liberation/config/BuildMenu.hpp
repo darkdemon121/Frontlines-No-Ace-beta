@@ -1,4 +1,4 @@
-class RscDisplayFrontlinesBuild
+class RscDisplayInvasionBuild
 {
     idd = 9800;
     movingEnable = 0;
