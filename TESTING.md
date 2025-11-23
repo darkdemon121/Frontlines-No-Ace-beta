@@ -15,6 +15,7 @@ Because this mission targets Arma 3, automated CI-style testing is not available
    - Open the map and watch the battle overlay refresh every chosen interval: red circles for heavy fighting, yellow for contacts, green for quiet areas, and blue/red front icons.
    - Build a Tactical Map board from the Buildings tab, use the "View Tactical Map" action at a FOB, and confirm friendly groups plus spotted enemies render on the static map.
    - On a map with water access, confirm ports and carrier groups appear as extra sectors with boat/infantry defenders, patrol boats loop along the coast, and amphibious assaults occasionally launch toward contested shores.
+   - Confirm the mission uses the default Arma loading placeholder unless you set your own `loadScreen` path in `description.ext`.
 4. Host a multiplayer session (LAN is fine) to verify respawn, parameters, and that build-menu actions remain limited to FOBs.
 
 If you encounter script errors, use the Arma 3 diagnostic console or `-showScriptErrors` startup parameter to locate the offending SQF line and report it with reproduction steps.

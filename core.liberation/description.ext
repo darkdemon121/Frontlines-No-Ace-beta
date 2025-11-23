@@ -15,7 +15,8 @@ class Header {
 author = "Invasion Liberation Template";
 onLoadName = "Invasion Liberation";
 onLoadMission = "Dynamic liberation-style scenario for any terrain.";
-loadScreen = "\A3\Ui_f\data\GUI\Rsc\RscDisplayLoading\logo_ca.paa";
+// Leave the load screen empty so hosts can drop in their own PAA/PNG without bundling binaries here.
+loadScreen = "";
 joinUnassigned = 1;
 
 #include "params.hpp"

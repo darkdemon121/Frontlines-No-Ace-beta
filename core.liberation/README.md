@@ -2,6 +2,8 @@
 
 This folder contains a dynamic Liberation-style sandbox that can be dropped onto any terrain. On mission start the scripts scan the map to seed sectors (towns, military sites, roadblocks, factories, fuel depots, and radio towers) and fill them with the faction chosen in the lobby parameters. The build menu, economy, and AI commanders are data driven so you can adapt them for different factions via the `mod_template` folder or the ready-made presets in `factions/` (organized by side for mission parameters) that mirror the LRX template set: vanilla NATO/CSAT/AAF/Syndikat, CTRG, RHS US Army/USMC/VDV/MSV/CDF/ChDKZ, 3CB BAF, and CUP BAF.
 
+> **Loading screen:** `description.ext` leaves `loadScreen` empty on purpose so you can supply your own PAA/PNG without bundling binary files in the repo.
+
 ## Key Features
 - **Dynamic sector generation:** uses `fn_initWorld` and `fn_generateSectors` to find city, military, industrial, and road objectives automatically.
 - **Defended objectives:** `fn_setupDefenses` pulls unit lists from faction templates to garrison each site with infantry, vehicles, and occasional air cover.
